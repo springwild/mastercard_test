@@ -1,7 +1,7 @@
 # Gateway Test Merchant Server
 This is a sample application to help developers start building mobile applications using the Gateway mobile SDK. [Android] / [iOS]
 
-## Steps for running  system running
+## Steps for running  system running test2
 1. Obtain an account with your Gateway provider
 1. Register with [Heroku]
 1. Click this button [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
